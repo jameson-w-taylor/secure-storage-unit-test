@@ -1,0 +1,7 @@
+{
+  "name": "secure-storage-unit-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
